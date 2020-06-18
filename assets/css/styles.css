@@ -43,5 +43,18 @@ body {
    padding-top: 10px;
    box-shadow: 5px 10px 18px #2c275e;
    color: 	#100a64;
+   background-color: white;
 
+}
+
+.container1{
+   background: url('/images/background2.jpg');
+   
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
